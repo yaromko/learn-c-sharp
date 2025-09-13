@@ -15,7 +15,7 @@ class RockPaperScissorsCliApp
 
         while (playGame)
         {
-            Console.WriteLine("Welcome to rock, paper sciccors, lizard,spock as feautured in Big bang theory!!");
+            Console.WriteLine("Welcome to rock, paper scissors, lizard,spock as featured in Big bang theory!!");
             Console.WriteLine("Main menu");
             Console.WriteLine("Option 1: Start a new game");
             Console.WriteLine("Option 2: Computer Choose!");
